@@ -23,3 +23,4 @@ Develop a water level monitoring system that provides real-time information on w
 
 **Cost**:  
 - Total implementation cost: **Tk. 945**.
+The next part of the voltage sensor is available at https://github.com/Monsterbeacon/Voltage_Sentinel
